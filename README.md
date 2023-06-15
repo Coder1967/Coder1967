@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nosakhare</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
-- Hi,I am currently working on mealmagic webapp [QuizMe](https://github.com/coder1967/Quiz_me)
+- Hi,I am currently working on Quiz me rest Api [QuizMe](https://github.com/coder1967/Quiz_me)
 
 - 🌱 I’m currently learning **Express**
 
