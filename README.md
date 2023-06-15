@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nosakhare</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
-- Hi,I am currently working on mealmagic webapp [Mealmagic](https://github.com/AisosaAghedo/MealMagic-recipe-recommendation-website)
+- Hi,I am currently working on mealmagic webapp [QuizMe](https://github.com/coder1967/Quiz_me)
 
 - 🌱 I’m currently learning **Express**
 
-- 💬 Ask me about **Flask, nodejs**
+- 💬 Ask me about **python3, Flask, nodejs, express**
 
 - 📫 How to reach me **Nosakhareaghedo42@gmail.com**
 
