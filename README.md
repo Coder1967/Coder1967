@@ -3,7 +3,7 @@
 
 - Hi,I am currently working on Quiz me rest Api [QuizMe](https://github.com/coder1967/Quiz_me)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently on an internship in **HNG**
 
 - 💬 Ask me about **python3, Flask, nodejs, express**
 
